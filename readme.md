@@ -8,7 +8,7 @@ In this tutorial, we will be adding functionality to the [Sinch Instant Messagin
 
 The app will display a GIF from Giphy based on a search term when the user types "/giphy [text]".
 
-![giphy examples](img/giphy-examples-1.png)
+![giphy examples](img/giphy-example-1.png)
 
 Let's get started!
 
@@ -96,6 +96,6 @@ Once this action has completed, we want to display our resulting GIF. Do so by r
 
 That's it! Try it out to see if everything works the way that it should.
 
-![giphy examples](img/giphy-examples-2.png)
+![giphy examples](img/giphy-example-2.png)
 
 You can see that Sinch IM is simple to use. This makes it easier to customize your app's in-app messaging features. To find more tutorials, head over the the [Sinch Tutorial Site](https://www.sinch.com/tutorials/) or the [Sinch Github](https://github.com/sinch). 
