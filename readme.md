@@ -12,7 +12,7 @@ The app will display a GIF from Giphy based on a search term when the user types
 
 Let's get started!
 
-# 1. Setup
+## 1. Setup
 
 First, open up your **Podfile** and change it to look as follows:
 
@@ -32,7 +32,7 @@ Now, install the appropriate pods using `pod install` and open up the XCode work
 
 If you haven't already done so, go to your (Sinch Dashboard](https://www.sinch.com/dashboard/) and create a new app. Fill out your app's application key and secret sections in **AppDelegate.m**.
 
-# 2. Giphy Messages
+## 2. Giphy Messages
 
 Let's head to **MainViewController.m**. Add the following import statements to access the Giphy-iOS library.
 
