@@ -30,7 +30,7 @@ We will be using a library called [Giphy-iOS](https://github.com/heyalexchoi/Gip
 
 Now, install the appropriate pods using `pod install` and open up the XCode workspace file.
 
-If you haven't already done so, go to your (Sinch Dashboard](https://www.sinch.com/dashboard/) and create a new app. Fill out your app's application key and secret sections in **AppDelegate.m**.
+If you haven't already done so, go to your [Sinch Dashboard](https://www.sinch.com/dashboard/) and create a new app. Fill out your app's application key and secret sections in **AppDelegate.m**.
 
 ## 2. Giphy Messages
 
